@@ -1,0 +1,28 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@nuxt/devtools": "latest",
+    "@types/node": "^18.17.0",
+    "nuxt": "^3.6.5"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.4.0",
+    "@fortawesome/free-solid-svg-icons": "^6.4.0",
+    "@nuxtjs/fontawesome": "^1.1.2",
+    "axios": "^1.4.0",
+    "connect-mongo": "^5.0.0",
+    "lodash": "^4.17.21",
+    "lowdb": "^6.0.1",
+    "mitt": "^3.0.1",
+    "mongodb": "^5.7.0"
+  }
+}

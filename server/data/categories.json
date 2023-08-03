@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Ground Houses",
+    "id": 2
+  },
+  {
+    "name": "Inside Houses",
+    "id": 3
+  },
+  {
+    "name": "Outside Houses",
+    "id": 4
+  }
+]
