@@ -17,7 +17,6 @@
   import AddCategoryForm from '~/components/AddCategoryForm.vue';
   import AddProductForm from '~/components/AddProductForm.vue';
   import axios from 'axios';
-  import eventBus from '~/eventBus'; // Import the eventBus
   
   export default {
     components: {
